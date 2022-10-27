@@ -4,11 +4,15 @@ go 1.19
 
 require (
 	github.com/davecgh/go-spew v1.1.1
+	github.com/ipfs/go-log v1.0.5
 	github.com/libp2p/go-libp2p v0.23.2
 	github.com/libp2p/go-libp2p-crypto v0.1.0
 	github.com/libp2p/go-libp2p-host v0.1.0
 	github.com/libp2p/go-libp2p-net v0.1.0
+	github.com/libp2p/go-libp2p-peer v0.2.0
+	github.com/libp2p/go-libp2p-peerstore v0.8.0
 	github.com/multiformats/go-multiaddr v0.7.0
+	github.com/whyrusleeping/go-logging v0.0.1
 )
 
 require (
@@ -77,6 +81,7 @@ require (
 	github.com/nxadm/tail v1.4.8 // indirect
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/opencontainers/runtime-spec v1.0.2 // indirect
+	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/prometheus/client_golang v1.13.0 // indirect
