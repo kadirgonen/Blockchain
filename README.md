@@ -1,6 +1,6 @@
 # Blockchain
 
-We built a blockchain recently on my this work.
+We built a blockchain recently on this my work.
 Since then, I've added a project on my github account - one containing proof of work blockchain and the other containing proof of stake blockchain.
 
 So, now we know how to build a blockchain and how the two most popular consensus mechanisms work. But blockchains themselves need to be propagated across peers.
